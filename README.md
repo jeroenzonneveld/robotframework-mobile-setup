@@ -1,7 +1,7 @@
 # Robot Framework - Mobile set up
 Set up for Robot Framework to start automated testing for mobile. Support for both iOS and Android. 
 
-Explanation about Appium and Robot Framework can be found in my blogpost "[Automate regression testing for iOS and Android using Appium and Robot](https://zonneveld.dev/)".
+Explanation about Appium and Robot Framework can be found in my blogpost "[Automate regression testing for iOS and Android using Appium and Robot](https://zonneveld.dev/automate-regression-testing-for-ios-and-android-using-appium-and-robot-framework/)".
 
 ## Run test cases
 Run the test scripts:
